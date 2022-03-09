@@ -1,4 +1,13 @@
+* {
+  font-family: Arial, sans-serif;
+}
 
-body {
-  font-family: Arial;
+h1 {
+  text-align: center;
+}
+
+.selected {
+  stroke: black;
+  stroke-width: 2px;
+  opacity: 1;
 }
